@@ -15,6 +15,7 @@ package com.mycompany.mavenproject1;
  * задумывался как временный для тестировани.
  * подлежит выпиливанию.
  */
+
 public class MyClass {
     public String testMethod(){
         //System.out.println("Hello9999999999");
