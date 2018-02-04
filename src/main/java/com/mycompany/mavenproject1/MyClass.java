@@ -9,6 +9,13 @@ package com.mycompany.mavenproject1;
  *
  * @author oleksandr.bilovol
  */
+
+/*
+ * TODO Тестовый класс, пока используется в тесте - импортируется в .jsp странице
+ * задумывался как временный для тестировани.
+ * подлежит выпиливанию.
+ */
+
 public class MyClass {
     public String testMethod(){
         //System.out.println("Hello9999999999");
