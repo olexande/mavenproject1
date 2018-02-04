@@ -14,9 +14,9 @@
     <body>
         
         <%@ include file="up.jsp" %> 
-        <h1>Hello World!</h1>
+        <%-- <h1>Hello World!</h1> --%>
         <%@ include file="body.jsp" %> 
-                <%
+        <%--        <%
     double num = Math.random();
     if (num > 0.95) {
   %>
@@ -29,6 +29,6 @@
     }
   %>
   <%@ include file="file.jsp" %> 
-  <%@ include file="down.jsp" %> 
+  <%@ include file="down.jsp" %> --%>
     </body>
 </html>
